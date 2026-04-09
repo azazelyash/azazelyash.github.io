@@ -6,7 +6,7 @@ const projects = [
       'An ecosystem of 5 interconnected apps for a pharmaceutical company covering order management, warehouse operations, packaging, inventory, payments, and delivery. Role-based flows with delivery verification improved operational efficiency by 50%.',
     tags: ['Flutter', 'Google Maps', 'Firebase', 'REST API'],
     github: 'https://github.com',
-    live: 'https://play.google.com',
+    live: 'https://play.google.com/store/apps/details?id=com.yashvishwakarma.salesnbt',
     date: 'March 2023',
     badge: 'Published on Play Store',
   },
